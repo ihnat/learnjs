@@ -1,4 +1,5 @@
-// adopted version of Tower of Hanoi
+
+// adopted version of Tower of Hanoi (Recursion was used)
 // disc - number of discs; src, aux, dst - first, second and third towers.
 // More info about Tower of Hanoi: http://en.wikipedia.org/wiki/Tower_of_Hanoi
 
