@@ -1,4 +1,7 @@
 // function which check if 'n' is prime num
+// helpful:
+// http://www.codecademy.com/ru/courses/javascript-beginner-en-d0Mp0/0/1
+// http://habrahabr.ru/post/133037/
 
 function isprime(n){
     if(n==1) // 1 - is not prime number
